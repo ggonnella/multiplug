@@ -42,3 +42,6 @@ the system and the _PyO3_ library installed, e.g. using ``cargo install PyO3``.
 
 The usage of the library is explained in the
  [user manual](https://github.com/ggonnella/multiplug/blob/main/docs/usage.md).
+ 
+## Acknowledgements
+This software has been originally created in context of the DFG project GO 3192/1-1 “Automated characterization of microbial genomes and metagenomes by collection and verification of association rules”. The funders had no role in study design, data collection and analysis.
